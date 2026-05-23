@@ -41,6 +41,22 @@ nltk.download("averaged_perceptron_tagger")
 nltk.download("brown")
 ```
 
+## NLTK Downloads
+
+Before running the script for the first time, download the required NLTK datasets:
+
+```python
+import nltk
+
+nltk.download("punkt")
+nltk.download("averaged_perceptron_tagger")
+nltk.download("brown")
+nltk.download("gutenberg")
+nltk.download("inaugural")
+nltk.download("reuters")
+nltk.download("webtext")
+```
+
 ## How to Run
 
 ```bash
